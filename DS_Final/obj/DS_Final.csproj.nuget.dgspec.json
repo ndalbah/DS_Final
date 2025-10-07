@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nrd/Desktop/2333960_DS_Final/2333960_DS_Final/2333960_DS_Final.csproj": {}
+    "/Users/nrd/Desktop/DS_Final/DS_Final/DS_Final.csproj": {}
   },
   "projects": {
-    "/Users/nrd/Desktop/2333960_DS_Final/2333960_DS_Final/2333960_DS_Final.csproj": {
+    "/Users/nrd/Desktop/DS_Final/DS_Final/DS_Final.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nrd/Desktop/2333960_DS_Final/2333960_DS_Final/2333960_DS_Final.csproj",
-        "projectName": "2333960_DS_Final",
-        "projectPath": "/Users/nrd/Desktop/2333960_DS_Final/2333960_DS_Final/2333960_DS_Final.csproj",
+        "projectUniqueName": "/Users/nrd/Desktop/DS_Final/DS_Final/DS_Final.csproj",
+        "projectName": "DS_Final",
+        "projectPath": "/Users/nrd/Desktop/DS_Final/DS_Final/DS_Final.csproj",
         "packagesPath": "/Users/nrd/.nuget/packages/",
-        "outputPath": "/Users/nrd/Desktop/2333960_DS_Final/2333960_DS_Final/obj/",
+        "outputPath": "/Users/nrd/Desktop/DS_Final/DS_Final/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nrd/.nuget/NuGet/NuGet.Config"
