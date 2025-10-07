@@ -1,4 +1,4 @@
-﻿using _2333960_DS_Final;
+﻿using _DS_Final;
 
 class Program
 {
