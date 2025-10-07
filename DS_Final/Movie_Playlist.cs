@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Xml.Linq;
 
-namespace _2333960_DS_Final
+namespace _DS_Final
 {
     public class Movie_Playlist
     {
