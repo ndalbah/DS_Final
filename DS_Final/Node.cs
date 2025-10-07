@@ -1,5 +1,5 @@
 ﻿using System;
-namespace _2333960_DS_Final
+namespace _DS_Final
 {
     public class Node
     {
