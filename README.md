@@ -35,7 +35,7 @@ Insert the following keys into an empty BST, in this order: ```38, 21, 12, 50, 2
 
 Draw the tree after each insertion.
 
-## Question 4: Binary Search Tree Traversals
+### Question 4: Binary Search Tree Traversals
 Display the nodes of the resulting tree in Question3 using the following traversal methods:
 - Pre-Order
 - In-Order
